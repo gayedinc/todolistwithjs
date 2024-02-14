@@ -1,2 +1,2 @@
-# kodluyoruz-todolist
-Kodluyoruz Eğitimi - To-Do List Ödevi
+# To Do List with Javascript
+I created a To Do List using Javascript.
